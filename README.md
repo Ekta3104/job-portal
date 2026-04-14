@@ -29,7 +29,7 @@ Install these first:
 ### 1. Setup backend
 
 ```powershell
-cd d:\workport\backend
+cd backend
 npm install
 ```
 
@@ -61,7 +61,7 @@ Backend base URL:
 Open a second terminal:
 
 ```powershell
-cd d:\workport\frontend
+cd frontend
 npm install
 ```
 
